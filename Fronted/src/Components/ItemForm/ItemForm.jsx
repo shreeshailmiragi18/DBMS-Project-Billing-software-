@@ -1,7 +1,7 @@
 import { useContext, useState } from "react";
 import { AppContext } from "../../context/AppContext";
 import toast from "react-hot-toast";
-import {assets} from "/Users/shreeshailmiragi/client/src/assets/assets.js";
+import {assets} from "/Users/shreeshailmiragi/Fronted/src/assets/assets.js";
 import { addItem } from "../../Service/ItemService";
 
 

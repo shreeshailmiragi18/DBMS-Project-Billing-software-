@@ -1,6 +1,6 @@
 import { AppContext } from '../../context/AppContext';
 import { useContext, useState } from 'react'; 
-import DisplayCategory from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/DisplayCategory/DisplayCategory.jsx";
+import DisplayCategory from "../../Components/DisplayCategory/DisplayCategory.jsx";
 import DisplayItems from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/DisplayItems/DisplayItems.jsx";
 import CartItems from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/CartItems/CartItems.jsx";
 import CartSummary from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/CartSummary/CartSummary.jsx";

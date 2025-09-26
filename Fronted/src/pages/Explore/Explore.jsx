@@ -1,10 +1,10 @@
 import { AppContext } from '../../context/AppContext';
 import { useContext, useState } from 'react'; 
-import DisplayCategory from "/Users/shreeshailmiragi/Documents/Fronted/src/Components/DisplayCategory/DisplayCategory.jsx";
-import DisplayItems from "/Users/shreeshailmiragi/Documents/Fronted/src/Components/DisplayItems/DisplayItems.jsx";
-import CartItems from "/Users/shreeshailmiragi/Documents/Fronted/src/Components/CartItems/CartItems.jsx";
-import CartSummary from "/Users/shreeshailmiragi/Documents/Fronted/src/Components/CartSummary/CartSummary.jsx";
-import CustomerForm from "/Users/shreeshailmiragi/Documents/Fronted/src/Components/CustomerForm/CustomerForm.jsx";
+import DisplayCategory from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/DisplayCategory/DisplayCategory.jsx";
+import DisplayItems from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/DisplayItems/DisplayItems.jsx";
+import CartItems from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/CartItems/CartItems.jsx";
+import CartSummary from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/CartSummary/CartSummary.jsx";
+import CustomerForm from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/CustomerForm/CustomerForm.jsx";
 import './Explore.css'; 
 
 const Explore = () => {

@@ -1,7 +1,7 @@
 
 import { AppContext } from '../../context/AppContext';
 import './DisplayItems.css';
-import Item from '/Users/shreeshailmiragi/Documents/client/src/Components/Item/Item.jsx';
+import Item from '/Users/shreeshailmiragi/Documents/Fronted/src/Components/Item/Item.jsx';
 import { useContext, useState } from 'react';
 import SearchBox from '../SearchBox/SearchBox';
 

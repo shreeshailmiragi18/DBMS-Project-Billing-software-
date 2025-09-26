@@ -1,6 +1,6 @@
 import toast from "react-hot-toast"
 import { useState } from "react";
-import {deleteUser} from "/Users/shreeshailmiragi/Fronted/src/Service/UserService.js";
+import {deleteUser} from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Service/UserService.js";
 
 
 const UsersList = ({users,setUsers}) => {

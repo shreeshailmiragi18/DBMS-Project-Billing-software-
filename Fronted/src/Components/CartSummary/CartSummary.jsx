@@ -1,11 +1,11 @@
 import { useContext,useState } from 'react';
 import './CartSummary.css';
 import { AppContext } from '../../context/AppContext';
-import { deleteOrder,createOrder,latestOrders } from "/Users/shreeshailmiragi/Documents/client/src/Service/OrderService.js"; 
+import { deleteOrder,createOrder,latestOrders } from "/Users/shreeshailmiragi/Documents/Fronted/src/Service/OrderService.js"; 
 import toast from 'react-hot-toast';
 import { createRazorpayOrder, verifyPayment } from '../../Service/PaymentService';
 import { AppConstants } from '../../Util/constants';
-import ReceiptPopup from "/Users/shreeshailmiragi/Documents/client/src/Components/ReceiptPopup/ReceiptPopup.jsx";
+import ReceiptPopup from "/Users/shreeshailmiragi/Documents/Fronted/src/Components/ReceiptPopup/ReceiptPopup.jsx";
 
 
 

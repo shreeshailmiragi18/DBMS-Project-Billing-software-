@@ -1,10 +1,10 @@
 import { AppContext } from '../../context/AppContext';
 import { useContext, useState } from 'react'; 
 import DisplayCategory from 'DBMS-Project-Billing-software-/Fronted/src/Components/DisplayCategory/DisplayCategory.jsx';
-import DisplayItems from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/DisplayItems/DisplayItems.jsx";
-import CartItems from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/CartItems/CartItems.jsx";
-import CartSummary from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/CartSummary/CartSummary.jsx";
-import CustomerForm from "/Users/shreeshailmiragi/Desktop/Billing-software/Fronted/src/Components/CustomerForm/CustomerForm.jsx";
+import DisplayItems from 'DBMS-Project-Billing-software-/Fronted/src/Components/DisplayItems/DisplayItems.jsx';
+import CartItems from 'DBMS-Project-Billing-software-/Fronted/src/Components/CartItems/CartItems.jsx';
+import CartSummary from 'DBMS-Project-Billing-software-/Fronted/src/Components/CartSummary/CartSummary.jsx';
+import CustomerForm from 'DBMS-Project-Billing-software-/Fronted/src/Components/CategoryForm/CategoryForm.jsx';
 import './Explore.css'; 
 
 const Explore = () => {
